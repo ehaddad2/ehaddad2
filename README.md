@@ -1,7 +1,7 @@
 👋 Hi folks! I’m Elias Haddad and I'm a first year computer science student at the University of Rochester. 
 
 - I’m mainly interested in general OOP, app development, and AI/ML.
-- I'm currently learning Android app development in Android Studio and working on smaller interesting projects in Java.
+- I'm currently learning Android app development with Kotlin and working on smaller interesting projects in Java.
 
 📫 How to reach me: Email- ehaddad2@u.rochester.edu 
 
