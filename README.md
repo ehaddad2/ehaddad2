@@ -1,9 +1,10 @@
 👋 Hi folks! I’m Elias Haddad and I'm a first year computer science student at the University of Rochester. 
 
-- I’m mainly interested in general OOP, app development, and AI/ML.
-- I'm currently learning Android app development with Kotlin and working on smaller interesting projects in Java.
+- I’m interested in a number of CS related concepts, especially android app dev, data mining/analysis, and AI/ML.
+- I'm currently working on a cool android mobile app, check out the preview in my repos!
+- Feel free to reach out with any thoughts or ideas:
 
-📫 How to reach me: Email- ehaddad2@u.rochester.edu 
+📫 ehaddad2@u.rochester.edu 
 
 <!---
 ehaddad2/ehaddad2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
