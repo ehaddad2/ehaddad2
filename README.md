@@ -2,7 +2,8 @@
 
 - I’m really interested in AI/ML research and applications
 - I'm currently working on cool computer vision and NLP applications
-- Feel free to reach out:
+
+Feel free to reach out:
 
 📫 ehaddad2@u.rochester.edu 
 
