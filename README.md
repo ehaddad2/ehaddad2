@@ -1,4 +1,4 @@
-👋 Hi folks! I’m Elias Haddad and I'm a first year computer science student at the University of Rochester. 
+Thanks for visitng! I'm a CS major at U of Rochester. 
 
 - I’m really interested in AI/ML research and applications
 - I'm currently working on cool computer vision and NLP applications
