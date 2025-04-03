@@ -1,4 +1,4 @@
-Thanks for visitng! I'm a CS major at U of Rochester. 
+Thanks for visitng! I'm a CS major at U Rochester. 
 
 - I’m really interested in AI/ML research and applications
 - I'm currently working on cool computer vision and NLP applications
